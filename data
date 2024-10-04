@@ -1,4 +1,6 @@
-<QQ.Wpf.Controls>2026-02-02</QQ.Wpf.Controls>
-<SlimControls>2026-02-02</SlimControls>
+<QQ.Wpf.Controls>1900-01-01</QQ.Wpf.Controls>
+<SlimControls>1900-01-01</SlimControls>
+<CADLab.Wpf.Drawing>1900-01-01</CADLab.Wpf.Drawing>
 <Emgu.CV.BinaryMatching>2026-02-02</Emgu.CV.BinaryMatching>
-<CADLab.Wpf.Drawing>2026-02-02</CADLab.Wpf.Drawing>
+<MiniCad>2025-01-01</MiniCad>
+
